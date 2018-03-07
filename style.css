@@ -1,0 +1,56 @@
+body
+{
+  background-color:#4D4D50;
+}
+#twitchHeader
+{
+ font-size:3em;
+  color:white;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+}
+.statusButton
+{
+  margin-left:10px;
+}
+.statusButtonActive
+{
+  background-color:orange;
+}
+.streammers
+{
+   float: none !important;
+}
+.closedTwitchAccount
+{
+  float: none !important;
+  color:red;
+  font-size:1.5em;
+
+}
+.streammerRow
+{
+  background-color:white;
+   border-radius: 25px;
+    border: 2px solid yellow;
+  margin-top:1em;
+}
+.streamerImg
+{
+  width:3em;
+  height:3em;
+   border-radius: 50%
+}
+.online
+{
+  background-color:green !important;
+  color:black;
+}
+.channelName
+{
+ font-weight:bold;
+
+}
+
+.footer{
+  color:white;
+}
